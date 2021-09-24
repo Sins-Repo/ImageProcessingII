@@ -3,3 +3,8 @@ A masterpiece in painting which belongs to Dynasty Song. The challenge here is t
 To enhance the image quality:
 * Brightness of the image
 * Bring out the details
+
+<br/>
+
+Original image <br/><br/>
+<img src="img/ancient_painting.jpg">
