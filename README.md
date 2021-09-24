@@ -1,16 +1,10 @@
 # 清明上河圖 (Along the River During the Qing Ming Festival)
-A masterpiece in painting which belongs to Dynasty Song. The challenge here is to restore the blurry ancient painting. <br/><br/>
+A famous painting which belongs to Dynasty Song. The challenge here is to restore the blurry ancient painting. <br/><br/>
 
 #### To enhance the image quality
 * Brightness of the image
 * Bring out the details
 
-<br/>
-
-#### Techniques 
-* Sharpening filter
-* Contrast stretching
-* Denoising
 
 <br/>
 
@@ -21,3 +15,13 @@ A masterpiece in painting which belongs to Dynasty Song. The challenge here is t
 
 #### Restored image 
 <img src="img/restored_painting.png">
+
+<br/>
+
+#### Implementation
+The notebook can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/QingMing.ipynb) <br/><br/>
+
+Techniques:
+* Sharpening filter
+* Contrast stretching
+* Denoising
