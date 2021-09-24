@@ -21,7 +21,7 @@ A famous painting which belongs to Dynasty Song. The challenge here is to restor
 #### Implementation
 The notebook can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/QingMing.ipynb) <br/><br/>
 
-Techniques:
+#### Techniques:
 * Sharpening filter
 * Contrast stretching
 * Denoising
