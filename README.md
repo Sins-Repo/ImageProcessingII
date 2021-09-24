@@ -8,3 +8,8 @@ To enhance the image quality:
 
 Original image <br/><br/>
 <img src="img/ancient_painting.jpg">
+
+<br/>
+
+Restored image <br/><br/>
+<img src="img/restored_painting.png">
