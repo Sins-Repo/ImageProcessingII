@@ -6,10 +6,10 @@ To enhance the image quality:
 
 <br/>
 
-Original image <br/><br/>
+#### Original image 
 <img src="img/ancient_painting.jpg">
 
 <br/>
 
-Restored image <br/><br/>
+#### Restored image 
 <img src="img/restored_painting.png">
