@@ -25,3 +25,21 @@ The notebook can be found [here](https://github.com/Sins-Repo/ImageProcessingII/
 * Sharpening filter
 * Contrast stretching
 * Denoising
+
+<br/>
+<br/>
+
+# Industrial Inspection
+Detect rustic region and output a warning message
+
+<br/>
+
+#### Sample output
+<img src="img/rust_detection.png">
+
+<br/>
+
+#### Techniques:
+* Segment rustic region using color space (concept of thresholding)
+* Morphological processing
+* Contour
