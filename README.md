@@ -35,7 +35,7 @@ Detect rustic region and output a warning message
 <br/>
 
 #### Sample output
-<img src="img/rust_detection.png">
+<img src="img/rust_detection.png" height=800>
 
 <br/>
 
