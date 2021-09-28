@@ -39,6 +39,11 @@ Detect rustic region and output a warning message
 
 <br/>
 
+#### Sample masks
+<img src="img/rust_mask.png" height=800>
+
+<br/>
+
 #### Techniques:
 * Segment rustic region using color space (concept of thresholding)
 * Morphological processing
