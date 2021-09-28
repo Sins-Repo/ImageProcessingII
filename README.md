@@ -36,11 +36,8 @@ Detect rustic region and output a warning message
 
 #### Sample output
 <img src="img/rust_detection.png" height=800>
-
-<br/>
-
-#### Sample masks
 <img src="img/rust_mask.png" height=800>
+
 
 <br/>
 
