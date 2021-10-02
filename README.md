@@ -62,6 +62,7 @@ Sometimes, we may need to set a larger value for the area <br/>
 
 ### Implementation
 The code can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/rust.py) <br/>
+The step-by-step notebook can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/rust.ipynb)
 
 <br/>
 
