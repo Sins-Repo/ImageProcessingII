@@ -19,6 +19,7 @@ A famous painting which belongs to Dynasty Song. The challenge here is to restor
 <br/>
 
 #### Implementation
+The code can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/QingMing.py) <br/>
 The notebook can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/QingMing.ipynb) <br/><br/>
 
 #### Techniques:
