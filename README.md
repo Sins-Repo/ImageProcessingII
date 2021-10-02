@@ -60,6 +60,11 @@ Sometimes, we may need to set a larger value for the area <br/>
 
 <br/>
 
+### Implementation
+The code can be found [here](https://github.com/Sins-Repo/ImageProcessingII/blob/main/rust.py) <br/>
+
+<br/>
+
 #### Techniques:
 * Segment rustic region using color space (concept of thresholding)
 * Morphological processing
